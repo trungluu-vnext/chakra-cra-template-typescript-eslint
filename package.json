@@ -1,6 +1,6 @@
 {
   "name": "cra-template-chakra-typescript-eslint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "template.json",
   "keywords": [
     "chakra",
@@ -15,7 +15,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "The official Chakra+TypeScript template for Create React App.",
+  "description": "The Chakra+TypeScript+Eslint template for Create React App.",
   "repository": {
     "type": "git",
     "url": "https://github.com/trungluu-vnext/chakra-cra-template-typescript-eslint"
